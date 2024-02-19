@@ -1,0 +1,22 @@
+.Form{
+    background-color: azure;
+    border: brown solid 4px;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+label{
+    margin-left: 30%;
+}
+
+input[type=text]{
+  margin: 10px;
+}
+
+button{
+    margin-left: 45%;
+    padding: 10px;
+    background-color: burlywood;
+}

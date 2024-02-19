@@ -1,0 +1,14 @@
+.App{
+    background-color: black;
+    padding: 20px;
+}
+
+.App>h2:hover {
+    opacity: 0.5;
+    cursor:pointer
+}
+
+h1{
+    margin-left: 35%;
+    text-transform: uppercase;
+}

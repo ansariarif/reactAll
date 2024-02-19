@@ -1,0 +1,27 @@
+.Footer{
+    background-color: turquoise;
+    border: red solid 5px;
+   
+}
+
+.Footer1>p{
+    margin-left: 40%;
+    width: 50%;
+    padding: 20px;
+}
+
+.Footer2>a{
+
+    margin-left: 40%;
+    width: 50%;
+    padding: 20px;
+
+}
+
+.Footer3{
+
+    margin-left: 40%;
+    width: 50%;
+   
+
+}

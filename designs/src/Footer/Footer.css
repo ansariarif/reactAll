@@ -1,0 +1,35 @@
+.Footer{
+    background-color: black;
+    border: red solid 4px;
+    margin: 30px;
+    padding: 30px;
+}
+
+.DivFooter{
+  display: flex;
+   margin-left: 30%;
+
+    
+}
+
+.content{
+    color: white;
+    width: 50%;
+    
+    margin-left: 5%;
+}
+
+.contents{
+    color: white;
+    width: 30%;
+    
+    margin-right: -10%;
+    
+}
+
+.DivSection{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+

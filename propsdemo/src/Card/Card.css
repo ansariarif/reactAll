@@ -1,0 +1,27 @@
+
+
+.Card{
+    background-color: black;
+    border: 2px solid red;
+    color: whitesmoke;
+    width: 50%;
+    margin: 10px;
+}
+
+img{
+    width: 70%;
+    height: auto;
+    margin-left: 10%;
+}
+
+
+.Imgage>img:hover{
+    opacity: 0.5;
+    padding: 5px;
+
+}
+
+.Title{
+    margin-left: 30%;
+    text-transform: uppercase;
+}

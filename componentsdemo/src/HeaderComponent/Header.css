@@ -1,0 +1,16 @@
+.Header{
+    background-color: violet;
+    padding: 20px;
+    border: tomato 4px solid;
+}
+
+.Header1{
+    margin-left: 40%;
+    width: 50%;
+   
+}
+
+.myHeading{
+    color: aqua;
+    text-shadow: brown 10px 10px 10px;
+}

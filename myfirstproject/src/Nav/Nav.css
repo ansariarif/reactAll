@@ -1,0 +1,36 @@
+.Nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.Li{
+    float: left;
+}
+
+.Li>a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 36px;
+    text-decoration: none;
+}
+
+.Li>a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+
+  .Search {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }

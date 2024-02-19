@@ -1,0 +1,20 @@
+
+
+.Covidstate{
+        display: flex;
+        justify-content: space-around;
+        background-color: black;
+      }
+
+   
+.Covidstate>div{
+    border: 2px solid burlywood;
+    background-color: chocolate;
+    padding: 5px;
+    text-shadow: 10px 10px 10px;
+}
+
+.Covidstate div:hover{
+    transition-duration:3s ;
+    transform: scale(2,2);
+}
